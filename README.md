@@ -1,6 +1,9 @@
 # Octolamp
 
-Octolamp brings a glowing GitHub lamp, animated lighting effects, and offline GitHub event demos to your badge.
+Octolamp brings a glowing GitHub lamp with animated lighting effects. 
+Select from multiple effects and click to hide controls.
+
+<img width="320" height="240" alt="octolamp-rainbow-screenshot" src="https://github.com/user-attachments/assets/081d2be1-909c-461d-bca9-adfaa445c03e" />
 
 ## Usage
 
